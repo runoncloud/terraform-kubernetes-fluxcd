@@ -1,6 +1,6 @@
 # Terraform Flux CD Module
 
-This modules makes it easy to set up a fresh installation of Flux CD in your Kubernetes cluster.
+This modules make it easy to set up a fresh installation of Flux CD in your Kubernetes cluster.
 
 ## Compatibility
 
